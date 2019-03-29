@@ -1,5 +1,5 @@
 owner=544533946243743745
-prefix=!
+prefix=7
 game=Type 7play
 stayinchannel=true
 songinstatus=false
